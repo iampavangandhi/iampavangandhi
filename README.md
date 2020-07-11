@@ -10,6 +10,6 @@ I'm a final student pursuing Bachelor in Computer Science from Delhi University 
 - 🌱 I’m currently learning Full Stack Development 🔥.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
-- 💻 I have worked on C++, Java, Python, PHP, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, Linux, etc.
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
