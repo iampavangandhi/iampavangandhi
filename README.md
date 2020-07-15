@@ -1,6 +1,8 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-**Glad to see you here!** 🤩
+<img src="https://avatars3.githubusercontent.com/u/42767012?s=460&v=4" width="200" height="200">
+
+**Glad to see you here!** 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
 
 I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
@@ -15,3 +17,5 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
 
 **Show some ❤️ by starring some of the repositories!**
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
