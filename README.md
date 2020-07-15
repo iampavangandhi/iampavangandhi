@@ -31,7 +31,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 ### More about me...
 
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🔥.
+- 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
