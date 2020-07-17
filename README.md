@@ -30,6 +30,8 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 <br />
 
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
@@ -54,4 +56,4 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
 
-### Show some ❤️ by starring some of the repositories!
+**Show some ❤️ by starring some of the repositories!**
