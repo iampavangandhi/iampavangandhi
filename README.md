@@ -34,7 +34,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, <br /> Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
@@ -46,12 +46,12 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
