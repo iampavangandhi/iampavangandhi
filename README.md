@@ -34,7 +34,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
+- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, MongoDB, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
@@ -56,4 +56,8 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
 
+<div align="center">
+
 **Show some ❤️ by starring some of the repositories!**
+
+</div>
