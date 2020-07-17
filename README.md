@@ -34,7 +34,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, <br /> Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
