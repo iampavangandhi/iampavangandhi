@@ -30,11 +30,11 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 <br />
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, MongoDB, Javascript, etc 💻.
+- 🛠 I’m currently working with Node.js, Express.js, React, Graphql, Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
