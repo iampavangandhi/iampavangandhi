@@ -30,7 +30,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 <br />
 
-<img style="margin-right:20px" align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
