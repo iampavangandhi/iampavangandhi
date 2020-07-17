@@ -28,8 +28,6 @@
 
 I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="250" width="375" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif" />
-
 ### More about me...
 
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
