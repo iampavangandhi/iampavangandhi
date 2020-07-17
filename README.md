@@ -56,8 +56,10 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
 
+#
+
 <div align="center">
 
-**Show some ❤️ by starring some of the repositories!**
+### Show some ❤️ by starring some of the repositories!
 
 </div>
