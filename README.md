@@ -39,6 +39,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: pavangandhi100@gmail.com
+- 📝 [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf)
 
 ### Languages and Tools:
 
