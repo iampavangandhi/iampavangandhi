@@ -17,7 +17,8 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
+- 🚀 I’m currently learning Full Stack Development.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/iampavangandhi).
 - 💬 Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: pavangandhi100@gmail.com
