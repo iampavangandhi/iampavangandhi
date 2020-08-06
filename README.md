@@ -40,9 +40,9 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
 
-#
-
 <div align="center">
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/iampavangandhi.gif?z=6)](https://github4life.herokuapp.com/iampavangandhi)
 
 ### Show some ❤️ by starring some of the repositories!
 
