@@ -48,12 +48,12 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><b>🍴 Forks</b></td>
       <td><b>🐛 Issues</b></td>
       <td><b>🔔 Pull Requests</b></td>
-      <td><b>🔔 Language</b></td>
+      <td><b>👨‍💻 Language</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>TheNodeCourse</b></a></td>
+	    <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
@@ -61,7 +61,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
     </tr>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Gitwar</b></a></td>
+	    <td><a href="https://github.com/iampavangandhi/Gitwar"><b>:octocat: Gitwar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
@@ -69,7 +69,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/TradeByte"><b>TradeByte</b></a></td>
+	    <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
