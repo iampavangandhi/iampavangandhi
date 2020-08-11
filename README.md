@@ -75,7 +75,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
   </tbody>
 </table>
 
-<img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
 
 #
 
