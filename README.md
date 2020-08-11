@@ -48,6 +48,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><b>🍴 Forks</b></td>
       <td><b>🐛 Issues</b></td>
       <td><b>🔔 Pull Requests</b></td>
+      <td><b>🔔 Language</b></td>
     </tr>
   </thead>
   <tbody>
@@ -57,6 +58,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
     </tr>
     <tr>
 	    <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Gitwar</b></a></td>
@@ -64,6 +66,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
     </tr>
     <tr>
 	    <td><a href="https://github.com/iampavangandhi/TradeByte"><b>TradeByte</b></a></td>
@@ -71,6 +74,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
