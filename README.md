@@ -39,12 +39,6 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-![](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
-
-#
-
-<div align="center">
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -80,6 +74,12 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
     </tr>
   </tbody>
 </table>
+
+![](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
+
+#
+
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
