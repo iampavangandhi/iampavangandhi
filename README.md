@@ -39,8 +39,6 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -49,7 +47,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
       <td><b>🌟 Stars</b></td>
       <td><b>🍴 Forks</b></td>
       <td><b>🐛 Issues</b></td>
-      <td><b>🔔 PRs</b></td>
+      <td><b>🔔 Pull Requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -57,25 +55,27 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 	    <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>TheNodeCourse</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?label=PR&style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
     </tr>
     <tr>
 	    <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Gitwar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?label=PR&style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
     </tr>
     <tr>
 	    <td><a href="https://github.com/iampavangandhi/TradeByte"><b>TradeByte</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?label=PR&style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
+
+<img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
 
 #
 
