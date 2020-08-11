@@ -39,7 +39,8 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<h3>Open source projects</h3>
+### Open source projects:
+
 <table>
   <thead align="center">
     <tr border: none;>
