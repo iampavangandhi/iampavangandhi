@@ -90,6 +90,4 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### Show some ❤️ by starring some of the repositories!
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/bars.gif">
-
 </div>
