@@ -87,6 +87,20 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 </details>
 
+<details>
+	
+  <br />
+  <summary><b>Things I use to get stuff done:</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>Browser</b> Firefox Developer Edition</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <br />
+	Checkout The Complete VSCode Settings <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	</ul>
+	
+</details>
+
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
 
 #
