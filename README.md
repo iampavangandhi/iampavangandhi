@@ -45,7 +45,16 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>Open source projects:</b></summary>
+	
+  <br />
+  <summary><b>⚡ Github Stats:</b></summary>
+
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open source projects:</b></summary>
 
 <br />
 <table>
@@ -92,7 +101,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 <details>
 	
   <br />
-  <summary><b>Things I use to get stuff done:</b></summary>
+  <summary><b>⚙️ Things I use to get stuff done:</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
   	    <li><b>Browser</b> Firefox Developer Edition</li>
@@ -102,8 +111,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 	</ul>
 	
 </details>
-
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
 
 #
 
