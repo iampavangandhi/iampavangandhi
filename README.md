@@ -45,13 +45,13 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats:</b></summary>
+  <summary><b>⚡ Github Stats</b></summary>
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open source projects:</b></summary>
+  <summary><b>🧑‍🚀 Open source projects</b></summary>
 
   <br />
   <table>
@@ -97,13 +97,14 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
  
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done:</b></summary>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
   	    <li><b>Browser</b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	Checkout The Complete VSCode Settings <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	Checkout My Complete VSCode Settings <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
