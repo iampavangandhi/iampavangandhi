@@ -46,7 +46,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open source projects</b></summary>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
