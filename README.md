@@ -100,11 +100,12 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-  	    <li><b>Browser</b> Firefox Developer Edition</li>
+	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My Complete VSCode Settings <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
