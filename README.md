@@ -16,7 +16,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Expressjs, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
