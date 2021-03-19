@@ -12,7 +12,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 Joined Github **2** years ago.
 
-Since then I pushed **1448** commits, opened **126** issues, submitted **144** pull requests, received **5** stars across **37** personal projects and contributed to **13** public repositories.
+Since then I pushed **1449** commits, opened **126** issues, submitted **144** pull requests, created **17** gists, received **5** stars across **37** personal projects and contributed to **13** public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -126,7 +126,7 @@ Since then I pushed **1448** commits, opened **126** issues, submitted **144** p
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
