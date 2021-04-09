@@ -12,7 +12,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 Joined Github **2** years ago.
 
-Since then I pushed **1495**+ commits, opened **157**+ issues, submitted **175**+ pull requests, created **17**+ gists and contributed to **13**+ public repositories.
+Since then I pushed **1497**+ commits, opened **157**+ issues, submitted **175**+ pull requests, created **17**+ gists and contributed to **13**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -57,14 +57,16 @@ Since then I pushed **1495**+ commits, opened **157**+ issues, submitted **175**
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details>
 
 <details>
