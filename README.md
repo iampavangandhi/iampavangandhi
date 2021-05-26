@@ -12,7 +12,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 Joined Github **2** years ago.
 
-Since then I pushed **1585**+ commits, opened **208**+ issues, submitted **225**+ pull requests, created **19**+ gists and contributed to **13**+ public repositories.
+Since then I pushed **1586**+ commits, opened **209**+ issues, submitted **226**+ pull requests, created **19**+ gists and contributed to **13**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
