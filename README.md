@@ -12,7 +12,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 Joined Github **2** years ago.
 
-Since then I pushed **1755**+ commits, opened **223**+ issues, submitted **241**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories.
+Since then I pushed **1757**+ commits, opened **223**+ issues, submitted **241**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories.
 
 Like My Work?
 
