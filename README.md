@@ -12,7 +12,7 @@ I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passio
 
 Joined Github **4** years ago.
 
-Since then I pushed **2709**+ commits, opened **229**+ issues, submitted **291**+ pull requests, created **20**+ gists and contributed to **23**+ public repositories.
+Since then I pushed **2708**+ commits, opened **229**+ issues, submitted **291**+ pull requests, created **20**+ gists and contributed to **21**+ public repositories.
 
 Like My Work?
 
