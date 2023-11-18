@@ -16,7 +16,7 @@ Feel free to connect with me @iampavangandhi for all things tech or just to say 
 
 Joined Github **5** years ago.
 
-Since then I pushed **2870**+ commits, opened **229**+ issues, submitted **318**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories.
+Since then I pushed **2876**+ commits, opened **229**+ issues, submitted **322**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories.
 
 Like My Work?
 
